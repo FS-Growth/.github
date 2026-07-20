@@ -1,0 +1,5 @@
+# Code owners for .github
+# Every PR auto-requests review from the non-author owner.
+# Owner 1: Swati Agarwal (@swatiAga) · Owner 2: Nina Lu (@nlu-fs)
+
+* @swatiAga @nlu-fs
